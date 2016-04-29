@@ -1,0 +1,12 @@
+{
+  "name": "gulp-hieroglyphy",
+  "version": "1.0.0",
+  "description": "Gulp wrapper for hieroglyphy",
+  "main": "index.js",
+  "author": "Björn Gustafsson <npm@kex3.com>",
+  "license": "ISC",
+  "dependencies": {
+    "hieroglyphy": "^0.1.0",
+    "through2": "^2.0.1"
+  }
+}
