@@ -1,6 +1,6 @@
 {
   "name": "gulp-hieroglyphy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gulp wrapper for hieroglyphy",
   "main": "index.js",
   "author": "Björn Gustafsson <npm@kex3.com>",
@@ -8,5 +8,14 @@
   "dependencies": {
     "hieroglyphy": "^0.1.0",
     "through2": "^2.0.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kex3/gulp-hieroglyphy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kex3/gulp-hieroglyphy/issues"
+  },
+  "homepage": "https://github.com/kex3/gulp-hieroglyphy#readme"
 }
