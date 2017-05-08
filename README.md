@@ -1,5 +1,7 @@
 # gulp-hieroglyphy
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kex3/gulp-hieroglyphy.svg)](https://greenkeeper.io/)
+
 * Ever wanted to turn your code into a sequence of `[]`, `{}`, `!` and `+`?
 * Ever wanted it integrated into your gulp chain?
 
